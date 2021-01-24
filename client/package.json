@@ -1,0 +1,87 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "proxy": "https://buyforestshop.herokuapp.com",
+  "homepage": "https://buyforestshop.herokuapp.com",
+  "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^23.0.0",
+    "@ckeditor/ckeditor5-react": "^2.1.0",
+    "@fortawesome/fontawesome-svg-core": "^1.2.32",
+    "@fortawesome/free-brands-svg-icons": "^5.15.1",
+    "@fortawesome/free-regular-svg-icons": "^5.15.1",
+    "@fortawesome/free-solid-svg-icons": "^5.15.1",
+    "@fortawesome/react-fontawesome": "^0.1.11",
+    "@stripe/react-stripe-js": "^1.1.2",
+    "@stripe/stripe-js": "^1.11.0",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "antd": "^4.7.2",
+    "axios": "^0.20.0",
+    "bootstrap": "^4.6.0",
+    "draft-js": "^0.11.7",
+    "flatlist-react": "^1.4.3",
+    "gmail-send": "^1.8.10",
+    "http-proxy-middleware": "^1.0.6",
+    "multiselect-react-dropdown": "^1.6.1",
+    "react": "^16.13.1",
+    "react-aria-offcanvas": "^1.4.2",
+    "react-avatar": "^3.9.7",
+    "react-bootstrap": "^1.4.3",
+    "react-ckeditor-component": "^1.1.0",
+    "react-collapsible": "^2.8.1",
+    "react-dom": "^16.13.1",
+    "react-draft-wysiwyg": "^1.14.5",
+    "react-dropzone": "^11.2.0",
+    "react-facebook-login": "^4.1.1",
+    "react-fontawesome": "^1.7.1",
+    "react-google-login": "^5.1.21",
+    "react-html-parser": "^2.0.2",
+    "react-image-gallery": "^1.0.8",
+    "react-list": "^0.8.15",
+    "react-loader-spinner": "^3.1.14",
+    "react-modal": "^3.11.2",
+    "react-moment": "^1.0.0",
+    "react-multi-select-component": "^3.0.4",
+    "react-paypal-express-checkout": "^1.0.5",
+    "react-rating-stars-component": "^2.2.0",
+    "react-responsive-cards": "^2.0.2",
+    "react-responsive-searchbox": "^1.1.4",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.3",
+    "react-scroll-to-top": "^1.0.5",
+    "react-select": "^3.1.0",
+    "react-sidebar": "^3.0.2",
+    "react-stripe-checkout": "^2.6.3",
+    "react-to-print": "^2.11.0",
+    "react-toastify": "^6.0.9",
+    "react-toggle": "^4.1.1",
+    "simple-react-comments": "^1.1.0",
+    "sslcommerz-nodejs": "^1.0.8"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "http-proxy-middleware": "^1.0.3"
+  }
+}
